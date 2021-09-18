@@ -117,5 +117,8 @@ ul li a{
    width: 300px;
 }
 @media(max-width:78px){
+    .main{
+        background-position: 100%;
+    }
 
 }
